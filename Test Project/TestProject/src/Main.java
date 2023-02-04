@@ -17,7 +17,7 @@ class Main {
 
     }
     public static void main(String[] args) {
-        int arr[] ={3,60,35,2,45,320,5};
+        int arr[] ={3,70,35,2,35,400,5};
 
         System.out.println("Array Before Bubble Sort");
         for(int i=0; i < arr.length; i++){
